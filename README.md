@@ -4,11 +4,11 @@
 
 
 
-Contexto del proyecto:
+# Análisis de Datos Banco Moneda Fácil #
 
 Un banco desea realizar un análisis de su cartera de préstamos para conocer el perfil de sus clientes, el comportamiento de pagos, y determinar si existen patrones que sugieran una mayor o menor probabilidad de impago. La información se encuentra guardada en la base de datos del banco.
 
-Objetivos del proyecto:
+# Objetivos del proyecto #
 
 Identificar el perfil de los clientes del banco que han solicitado préstamos.
 
